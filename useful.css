@@ -1,0 +1,35 @@
+.bbox {
+    border: 5px solid #111;
+    background-color: #444;
+    width: 100%
+}
+
+.vctr {
+    margin-top: 30vh;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.footer {
+    font-size: 30%;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.figure {
+    height: 40vh;
+    margin: 0;
+}
+
+.caption {
+    font-size: 50%;
+    margin-top: 0;
+}
+
+.title {
+    margin-bottom: 10vh;
+    margin-top: 0;
+}
